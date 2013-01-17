@@ -52,7 +52,6 @@ void AddLinkedLists(Node *H1, Node *H2)
 	}
 }
 
-
 int main()
 {
 	Node *N11 = new Node; Node *N12 = new Node;
