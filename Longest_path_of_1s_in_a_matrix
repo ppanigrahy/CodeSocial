@@ -9,6 +9,8 @@ down ... For e.g.
 1 1 1 1 1
 */
 
+//ideone link :  http://ideone.com/6jHsWk
+
 #include<iostream>
 using namespace std;
 int main()
