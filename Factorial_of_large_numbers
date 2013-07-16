@@ -35,6 +35,7 @@ string factorial(int n)
 	return product;
 
 }
+
 int main()
 {
 	cout<<"Program finds factorial of an integer"<<endl;
