@@ -60,4 +60,5 @@ int main()
 	Node *Head2 = N21; N21->Val=8;N21->next=N22;N22->Val=9;N22->next=N23;N23->Val=6;N23->next=N24;N24->Val=0;N24->next=NULL;
 	AddLinkedLists(Head1, Head2);
 	getchar();
+	return 0;
 }
