@@ -1,3 +1,4 @@
+// Program to swap the pair nodes. For example input is 1->2->3->4->5->6->NULL, output will be 2->1->4->3->6->5->NULL
 //#include"stdafx.h"
 #include"iostream"
 
