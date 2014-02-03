@@ -1,4 +1,6 @@
-nclude <iostream>
+//Given a binary tree, find its left view
+
+#include <iostream>
 #include <queue>
 #include <list>
 #include <algorithm>
