@@ -1,4 +1,4 @@
-n doubly linked list. This function should cover all the scenarios.
+/*Write a single function to insert a node with given data at a given location in doubly linked list. This function should cover all the scenarios.
 Similarly, to delete a node from  a given location.
 */
 //#include "stdafx.h"
