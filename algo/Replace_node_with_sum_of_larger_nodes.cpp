@@ -8,22 +8,16 @@ Question and solution by Seshadri...
 using namespace std;
 
 struct node
-
 {
 	int val;
 	node* left;
 	node* right;
 
 	node(int x)
-
 	{
-
 		val = x;
-
 		left = NULL;
-
 		right = NULL;
-
 	}
 };
 
