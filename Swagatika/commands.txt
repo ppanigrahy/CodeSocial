@@ -1,0 +1,24 @@
+***********Unix Commands***********************
+Pwd - present Working dir.
+Ls - list of files & directories.
+Ls -lart - list of all files, hidden files etc.
+Cd  - Change dir.
+Cd .. - parent dir.
+Mkdir - Make dir.
+rm - Remove files.
+rm -rf- remove directory recursively & by force.
+touch <fileName>- create and update the file.
+Cp path/ path2/.- Copy
+vi/vim <File name> :q-close
+		   :wq-Save &Close
+		   :w-Save.
+
+********************************Git Commands**********
+	
+Clone - git clone cloudPath
+git pull origin develop<branchname>
+git add<file name>
+git commit -m “Comment”
+git push origin master
+git log - History of comments
+git status - Modified/added file list.
